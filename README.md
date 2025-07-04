@@ -81,19 +81,3 @@ The project follows a typical data science pipeline:
 ---
 
 ## File Structure
-
-project/
-│
-├── data/
-│ └── Superstore.xls
-│
-├── notebooks/
-│ └── 01_data_exploration.ipynb
-│ └── 02_modeling.ipynb
-│
-├── src/
-│ └── preprocessing.py
-│ └── forecasting.py
-│
-├── README.md
-└── requirements.txt
